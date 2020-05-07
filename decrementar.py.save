@@ -1,0 +1,5 @@
+intentos = 6
+while intentos > 5:
+	intentos = intentos -
+1:
+	print(intentos)
