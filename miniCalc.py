@@ -15,7 +15,7 @@ while True:
         res = int(input("Que operacion desea realizar? "))
         num1 = int(input("Ingrese el primer numero "))
         num2 = int(input("Ingrese el primer numero "))
-        
+
     except ValueError:
         print("Solo se aceptan numeros no letras")
     else:
